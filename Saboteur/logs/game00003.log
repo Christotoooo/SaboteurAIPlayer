@@ -1,0 +1,14 @@
+# Server version 0.08 running on LAPTOP-QJHLSQ4D:8123
+# Game ID: 3
+# Board class: Saboteur.SaboteurBoard
+# Timeout: 20000
+# First Move Timeout: 30000
+# Date: Sat Mar 14 14:49:38 EDT 2020
+# Player 1: Player-0, 'Human', running on LAPTOP-QJHLSQ4D
+# Player 2: Player-1, 'RandomPlayer', running on LAPTOP-QJHLSQ4D
+START Player-0 Human
+START Player-1 RandomPlayer
+BoardInit:Tile:5,Tile:12,Tile:8,Tile:0,Tile:4,Tile:6,Tile:2,Tile:8,Map,Bonus,Tile:0,Tile:7,Tile:10,Tile:0,Tile:9,Tile:6,Tile:7,Tile:8,Tile:6,Bonus,Tile:8,Tile:10,Tile:6,Map,Tile:7,Tile:1,Tile:8,Bonus,Tile:13,Destroy,Map,Tile:5,Malus,Tile:15,Tile:9,Malus,Tile:5,Tile:14,Map-Tile:10,Bonus,Tile:7,Tile:0,Tile:11,Destroy,Tile:5-Tile:6,Tile:3,Tile:9,Tile:7,Tile:9,Destroy,Tile:9-Tile:nugget,Tile:hidden2,Tile:hidden1
+Drop 2 0 1
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Sat Mar 14 14:54:53 EDT 2020

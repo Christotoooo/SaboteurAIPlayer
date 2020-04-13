@@ -1,0 +1,68 @@
+# Server version 0.08 running on LAPTOP-QJHLSQ4D:8123
+# Game ID: 366
+# Board class: Saboteur.SaboteurBoard
+# Timeout: 20000
+# First Move Timeout: 30000
+# Date: Thu Apr 09 23:20:45 EDT 2020
+# Player 1: Player-0, '260760794', running on LAPTOP-QJHLSQ4D
+# Player 2: Player-1, 'RandomPlayer', running on LAPTOP-QJHLSQ4D
+START Player-0 260760794
+START Player-1 RandomPlayer
+BoardInit:Tile:9,Tile:12,Tile:3,Tile:8,Tile:0,Tile:8,Tile:6,Tile:8,Tile:9,Malus,Tile:4,Tile:7,Tile:6,Tile:0,Map,Tile:2,Map,Destroy,Tile:7,Tile:6,Tile:10,Tile:8,Tile:9,Destroy,Bonus,Tile:6,Tile:0,Map,Tile:6,Tile:14,Tile:7,Tile:10,Tile:9,Malus,Tile:11,Tile:5,Tile:7,Tile:7,Tile:0,Tile:5,Map-Destroy,Tile:10,Tile:13,Tile:9,Tile:15,Tile:5,Bonus-Tile:5,Tile:1,Map,Bonus,Map,Bonus,Tile:8-Tile:hidden1,Tile:nugget,Tile:hidden2
+Drop 2 0 1
+Map 12 3 0
+Tile:9_flip 5 6 1
+Map 12 5 0
+Tile:5_flip 6 5 1
+Tile:8 6 4 0
+Destroy 6 4 1
+Tile:8 6 4 0
+Tile:0 4 6 1
+Tile:8 7 4 0
+Drop 5 0 1
+Tile:8 8 4 0
+Tile:9 7 5 1
+Malus 0 0 0
+Drop 5 0 1
+Tile:0 9 4 0
+Drop 0 0 1
+Tile:5_flip 10 4 0
+Drop 3 0 1
+Tile:7 10 3 0
+Map 12 5 1
+Tile:6 9 3 0
+Map 12 3 1
+Tile:8 9 2 0
+Drop 5 0 1
+Drop 4 0 0
+Drop 5 0 1
+Tile:6 10 2 0
+Drop 2 0 1
+Map 12 7 0
+Drop 4 0 1
+Drop 0 0 0
+Drop 4 0 1
+Drop 5 0 0
+Drop 0 0 1
+Malus 0 0 0
+Drop 4 0 1
+Drop 2 0 0
+Drop 0 0 1
+Drop 2 0 0
+Drop 2 0 1
+Drop 2 0 0
+Drop 4 0 1
+Drop 3 0 0
+Drop 1 0 1
+Drop 3 0 0
+Map 12 5 1
+Drop 3 0 0
+Drop 0 0 1
+Tile:10 10 1 0
+Drop 0 0 1
+Drop 1 0 0
+Drop 1 0 1
+Drop 0 0 0
+Drop 0 0 1
+GAMEOVER DRAW
+# Game ended: Thu Apr 09 23:20:54 EDT 2020

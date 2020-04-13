@@ -1,0 +1,34 @@
+# Server version 0.08 running on LAPTOP-QJHLSQ4D:8123
+# Game ID: 359
+# Board class: Saboteur.SaboteurBoard
+# Timeout: 20000
+# First Move Timeout: 30000
+# Date: Thu Apr 09 19:51:31 EDT 2020
+# Player 1: Player-0, 'RandomPlayer', running on LAPTOP-QJHLSQ4D
+# Player 2: Player-1, '260760794', running on LAPTOP-QJHLSQ4D
+START Player-0 RandomPlayer
+START Player-1 260760794
+BoardInit:Map,Tile:14,Tile:3,Tile:5,Tile:7,Tile:15,Map,Tile:5,Tile:6,Tile:10,Tile:6,Tile:7,Tile:9,Tile:8,Tile:12,Tile:10,Destroy,Malus,Tile:9,Bonus,Map,Tile:7,Map,Tile:7,Tile:0,Tile:4,Destroy,Tile:7,Tile:1,Tile:8,Tile:6,Malus,Tile:8,Tile:13,Tile:8,Tile:2,Bonus,Map,Bonus,Map,Tile:5-Tile:9,Bonus,Tile:9,Tile:6,Tile:9,Tile:5,Tile:0-Tile:6,Destroy,Tile:10,Tile:11,Tile:0,Tile:0,Tile:8-Tile:hidden2,Tile:hidden1,Tile:nugget
+Drop 5 0 1
+Tile:6 6 5 0
+Map 12 3 1
+Tile:11_flip 5 6 0
+Tile:9_flip 7 5 1
+Drop 2 0 0
+Tile:9 7 4 1
+Tile:5_flip 7 6 0
+Map 12 7 1
+Tile:14_flip 4 5 0
+Tile:6 8 4 1
+Tile:15 7 3 0
+Tile:9_flip 9 4 1
+Tile:10 9 5 0
+Tile:6 9 6 1
+Tile:8 5 7 0
+Tile:6 10 6 1
+Tile:7_flip 8 6 0
+Tile:0 11 6 1
+Destroy 5 6 0
+Tile:9_flip 12 6 1
+GAMEOVER WINNER 1
+# Game ended: Thu Apr 09 19:51:41 EDT 2020
